@@ -49,7 +49,8 @@ different hosts. ![Giant viruses have weaponised CRISPR against their
 bacterial hosts \| New
 Scientist](https://images.newscientist.com/wp-content/uploads/2019/03/29114749/m0900070-coloured_tem_of_t-bacteriophages_attacking_e.coli-spl.jpg)
 
-Image 1: Phages attacking an *E. coli* cell
+Image 1: Phages attacking an *E. coli* cell. Found via the Science Photo
+Library
 
 ## Methods
 
