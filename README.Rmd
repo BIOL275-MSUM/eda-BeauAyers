@@ -165,7 +165,8 @@ here leads to the idea that looking at the DNA of the phages might lead
 to a better understanding of how to tell which phage infects which host
 by more trivial means. If it is found that the phages with these hosts
 have these definitive patterns even on a larger scale, it could help in
-limiting the amount of possible host candidates.
+limiting the amount of possible host candidates when testing for
+infectivity of the phage.
 
 ## Literature Cited
 
